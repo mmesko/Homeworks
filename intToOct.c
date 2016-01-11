@@ -30,7 +30,4 @@ int num;
  scanf("%d",&num);
 
 intToOct(num);   // poziv funkcije
-
-}
-
 }
